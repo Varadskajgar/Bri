@@ -1,0 +1,18 @@
+{
+  "botConfig": {
+    "botToken": "YOUR_BOT_TOKEN",
+    "serverId": "YOUR_SERVER_ID"
+  },
+  "guildConfig": {
+    "guildRename": true,
+    "guildName": "GUILD_NAME"
+  },
+  "actionConfig": {
+    "deleteRoles": true,
+    "deleteChannels": true,
+    "createChannels": true,
+    "channelName": "CHANNEL_NAME",
+    "sendMessages": true,
+    "sendMessage": "YOUR_MESSAGE"
+  }
+}
